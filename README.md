@@ -60,18 +60,20 @@ Desarrollar una aplicación web estructurada que represente:
 
 ## Estructura del proyecto
 
+```
 mi-consultoria/
 │
 ├── index.html
 ├── dashboard.html
 │
 ├── css/
-│ ├── style.css
-│ └── dashboard.css
+│   ├── style.css
+│   └── dashboard.css
 │
 ├── js/
-│ ├── script.js
-│ └── dashboard.js
+│   ├── script.js
+│   └── dashboard.js
 │
 └── assets/
-  └── img/
+    └── img/
+```
