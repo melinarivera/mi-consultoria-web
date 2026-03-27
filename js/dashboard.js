@@ -11,6 +11,7 @@ menuBtn.addEventListener("click", function () {
   sidebar.classList.toggle("show");
 });
 
+
 btnActualizar.addEventListener("click", function () {
   clientesActivos.textContent = "136";
   ingresosMensuales.textContent = "€9,120";
